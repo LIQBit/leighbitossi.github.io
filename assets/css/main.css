@@ -2046,7 +2046,7 @@ input, select, textarea {
 		cursor: default;
 		list-style: none;
 		padding-left: 0;
-		margin: -1em 0 2em -1em;
+		margin: -7em 0 2em -1em;
 	}
 
 		ul.icons li {
@@ -2841,6 +2841,7 @@ input, select, textarea {
 			border-bottom: 0;
 			color: inherit;
 			font-weight: 900;
+			padding-top: 100px;
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
